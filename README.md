@@ -1,10 +1,10 @@
-# DeepLearningCourse_Mar24
+# Fighting Memorization: Training and Normalization effect in an MLP NN - A case study
 
 This reposatory contains the code of final project of 'Deep Learning' Course by Prof. Lior Wolf and Dr. Idan Schwartz, Fall 2023.
 
-The project follows up [NeurIPS'22 HVYSI] paper and the model inversion attack ot presents.
-A model inversion is the process of reconstructing training data from a model parameters.
-We axamine several aspects of the presented attack and pose follow up research questions that arise from our observations.
+The project follows up [NeurIPS'22 HVYSI] paper and the model inversion attack ot presents. A model inversion is the process of reconstructing training data from a model parameters. We axamine several aspects of the presented attack and pose follow up research questions that arise from our observations.
+
+Project tests results are given in the course report along with cocluding discussion and follow up research questions.
 
 The reposatory consist of two notebooks that were used to conduct the tests for the project:
 1) Code of reproducing results of NeurIPS'22 HVYSI; Code of testing normalization effect:   Test_normalization_effect.ipynb
